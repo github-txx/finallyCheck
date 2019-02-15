@@ -1,5 +1,3 @@
-package threadDemo;
-
 public class finillyCheck {
 
     public static void main(String args[]){
